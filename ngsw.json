@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1748784065345,
+  "timestamp": 1748785132310,
   "index": "/poke_pec_5/index.html",
   "assetGroups": [
     {
@@ -51,7 +51,7 @@
         "https:\\/\\/pokeapi\\.co\\/api\\/v2\\/pokemon\\/.*",
         "https:\\/\\/raw\\.githubusercontent\\.com\\/PokeAPI\\/.*"
       ],
-      "strategy": "freshness",
+      "strategy": "performance",
       "maxSize": 200,
       "maxAge": 259200000,
       "timeoutMs": 2000,
