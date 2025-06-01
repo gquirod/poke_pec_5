@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1748738675739,
-  "index": "https://gquirod.github.io/poke_pec_5/index.html",
+  "timestamp": 1748739506510,
+  "index": "/poke_pec_5/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -10,16 +10,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "https://gquirod.github.io/poke_pec_5/chunk-Q5CGLILQ.js",
-        "https://gquirod.github.io/poke_pec_5/chunk-RA4DHZ46.js",
-        "https://gquirod.github.io/poke_pec_5/favicon.ico",
-        "https://gquirod.github.io/poke_pec_5/index.html",
-        "https://gquirod.github.io/poke_pec_5/main-6YCMCBBE.js",
-        "https://gquirod.github.io/poke_pec_5/manifest.webmanifest",
-        "https://gquirod.github.io/poke_pec_5/polyfills-FFHMD2TL.js",
-        "https://gquirod.github.io/poke_pec_5/styles-RSAQMOR5.css"
-      ],
+      "urls": [],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
       ]
@@ -31,16 +22,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-128x128.png",
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-144x144.png",
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-152x152.png",
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-192x192.png",
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-384x384.png",
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-512x512.png",
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-72x72.png",
-        "https://gquirod.github.io/poke_pec_5/assets/icons/icon-96x96.png"
-      ],
+      "urls": [],
       "patterns": []
     }
   ],
@@ -61,24 +43,7 @@
       "version": 1
     }
   ],
-  "hashTable": {
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "https://gquirod.github.io/poke_pec_5/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://gquirod.github.io/poke_pec_5/chunk-Q5CGLILQ.js": "1e06f855f8da291cc0fd0b82af0ddd5efa2b1f4b",
-    "https://gquirod.github.io/poke_pec_5/chunk-RA4DHZ46.js": "c824bd848ba7de647ffcc3d4ec681b6a1b1a0647",
-    "https://gquirod.github.io/poke_pec_5/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://gquirod.github.io/poke_pec_5/index.html": "7b0f6b1ef7de3399d5eba849a00d563ac263d794",
-    "https://gquirod.github.io/poke_pec_5/main-6YCMCBBE.js": "c42a6dedb86c7aaf9b7bf0a21804f146208543ae",
-    "https://gquirod.github.io/poke_pec_5/manifest.webmanifest": "e5145ae4b57f2542376efc318b7b766b827b86d4",
-    "https://gquirod.github.io/poke_pec_5/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "https://gquirod.github.io/poke_pec_5/styles-RSAQMOR5.css": "571732b9816b033684ccda6c5cd61da22fd3b43d"
-  },
+  "hashTable": {},
   "navigationUrls": [
     {
       "positive": true,
